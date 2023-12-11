@@ -20,6 +20,7 @@ par 2: die Länge des Arrays
 
 Beispiel:
 
-```primArray (7, 4)
+```
+primArray (7, 4)
 Ergebnis:  [7, 11, 13, 17]
 ```
