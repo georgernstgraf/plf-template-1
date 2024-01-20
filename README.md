@@ -43,10 +43,11 @@ durchläuft!
 
 Unter <https://grafg1.spengergasse.at/swp4> steht ein REST Endpoint zur
 Verfügung, welcher Spengergassen Credentials (Username / Passwort) verifiziert.
-Einen Beispiel-Aufruf findest Du in der Datei `example.rest`, füge einen Aufruf
-mit Deinem Username und einem richtigen Passwort hinzu. Trage unbedingt Sorge
-dafür daß Du diese Datei **nicht** in das Repository hochlädst, dies sollte
-allerdings schon durch `.gitignore` erledigt werden.
+Einen Beispiel-Aufruf findest Du in der Datei `example.rest-sample`, benenne Sie
+um auf `example.rest`, füge einen Aufruf mit Deinem Username und einem richtigen
+Passwort hinzu. Trage unbedingt Sorge dafür daß Du diese Datei **nicht** in das
+Repository hochlädst, dies sollte allerdings schon durch `.gitignore` erledigt
+werden.
 
 Es sind die Dateien `index.html` sowie `style.css` vorgegeben, es fehlt jedoch
 die Javascript Datei `index.js`, welche anzeigt ob die Credentials stimmen oder
